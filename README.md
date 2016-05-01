@@ -1,18 +1,18 @@
 # Stargazer
 
-Stargazer was built for the NASA Space Apps Challenge 2016 hackathon in NYC.  
+Stargazer was built for the NASA Space Apps Challenge 2016 hackathon in NYC.
 
 Stargazer offers daily reports on tonight's weather, moon phase, star and planetary activity, the location of the International Space Station, and asteroid activity near earth. With stargazer, you'll always know where to point your telescope.
 
 Users can download Stargazer for Amazon Echo, iOS and Android, visit the website, or receive Stargazer's daily report via text.
 
-`"Alexa, launch Stargazer."`   
+`"Alexa, launch Stargazer."`
 
 #### Multiplatform
 - Amazon Echo Alexa skill
 - iOS app
 - Android app
-- Web: [star-gazer.herokuapp.com](star-gazer.herokuapp.com)
+- Web: [star-gazer.herokuapp.com](http://star-gazer.herokuapp.com)
 - Twilio: sign up for a daily text message on the website.
 
 
